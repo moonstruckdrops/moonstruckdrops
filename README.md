@@ -28,6 +28,18 @@
 
 ## DevOps
 
+![Grafana](https://img.shields.io/badge/-GRAFANA-black?&style=for-the-badge&logo=grafana&logoColor=yellow)
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-E6522C.svg?&style=for-the-badge&logo=Prometheus&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/TERRAFORM-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Fluentd](https://img.shields.io/badge/Fluentd-0E83C8.svg?style=for-the-badge&logo=Fluentd&logoColor=white)
+![Fluent Bit](https://img.shields.io/badge/Fluent%20Bit-49BDA5.svg?style=for-the-badge&logo=Fluent%20Bit&logoColor=white)
+![Embulk](https://img.shields.io/badge/Embulk-CC9966.svg?style=for-the-badge)
+![Logstash](https://img.shields.io/badge/Logstash-005571.svg?style=for-the-badge&logo=Logstash&logoColor=white)
+![Digdag](https://img.shields.io/badge/Digdag-eab908.svg?style=for-the-badge&logo=Digdag&logoColor=white)
+![Kibana](https://img.shields.io/badge/KIBANA-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white)
+
 ## Other
 
 ## Contact
