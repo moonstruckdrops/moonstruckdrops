@@ -17,9 +17,6 @@
 ![H2 Database](https://img.shields.io/badge/H2%20Database-0018dd?style=for-the-badge)
 ![Memcached](https://img.shields.io/badge/Memcached-2d8983?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
-
-### In-Memory Databases
-
 ![Apache Solr](https://img.shields.io/badge/Apache%20Solr-D9411E.svg?style=for-the-badge&logo=Apache%20Solr&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/ELASTICSEARCH-005571.svg?style=for-the-badge&logo=ElasticSearch&logoColor=white)
 
