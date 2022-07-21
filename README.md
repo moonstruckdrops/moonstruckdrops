@@ -14,7 +14,7 @@
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2 Database-0018dd?style=for-the-badge)
+![H2 Database](https://img.shields.io/badge/H2%20Database-0018dd?style=for-the-badge)
 ![Memcached](https://img.shields.io/badge/Memcached-2d8983?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 
