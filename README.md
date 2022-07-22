@@ -3,6 +3,14 @@
 ![GNU-Emacs](https://img.shields.io/badge/EMACS-7F5AB6.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 
+## IDE
+
+![Eclipse-IDE](https://img.shields.io/badge/ECLIPSE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+
 ## Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
@@ -23,6 +31,9 @@
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 
 ## Frontend
+
+![Android](https://img.shields.io/badge/ANDROID-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=iOS&logoColor=white)
 
 ## Backend
 
