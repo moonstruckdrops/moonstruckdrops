@@ -5,6 +5,23 @@
 
 ## Languages
 
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
+![Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
+![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+![Elisp](https://img.shields.io/badge/ELISP-9266CC.svg?style=for-the-badge&logo=GNU-Emacs&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
+
 ## Frontend
 
 ## Backend
