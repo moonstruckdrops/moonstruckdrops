@@ -22,6 +22,7 @@
 ![Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache%20Groovy&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F.svg?style=for-the-badge&logo=Scala&logoColor=white)
 
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![Ruby](https://img.shields.io/badge/RUBY-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=Javascript&logoColor=black)
@@ -41,14 +42,13 @@
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61dafb.svg?style=for-the-badge)
 
-
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2AA2DB.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 
@@ -61,12 +61,18 @@
 ![Wicket](https://img.shields.io/badge/Wicket-FF9925.svg?style=for-the-badge)
 ![Play Framework](https://img.shields.io/badge/Play%20Framework-92d13d.svg?style=for-the-badge)
 
+![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=Symfony&logoColor=white)
+![CakePHP](https://img.shields.io/badge/CakePHP-D33C43.svg?style=for-the-badge&logo=CakePHP&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ![Rails](https://img.shields.io/badge/RAILS-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white)
 ![Ruby Sinatra](https://img.shields.io/badge/RUBY%20SINATRA-000000.svg?style=for-the-badge&logo=Ruby%20Sinatra&logoColor=white)
 ![Padrino](https://img.shields.io/badge/Padrino-cc0000.svg?style=for-the-badge&logoColor=white)
 ![Hanami](https://img.shields.io/badge/HANAMI-685D9F.svg?style=for-the-badge&logo=Hanami&logoColor=white)
 
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
 ![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
