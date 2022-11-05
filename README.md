@@ -133,6 +133,10 @@
 ![Datadog](https://img.shields.io/badge/DATADOG-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/NEWRELIC-008C99.svg?style=for-the-badge&logo=New%20Relic&logoColor=white)
 
+## Recently
+
+![Migrating to Google Cloud](https://cloud.google.com/customers/smarthr)
+
 ## Contact
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kurobara)
