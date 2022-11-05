@@ -135,7 +135,7 @@
 
 ## Recently
 
-[![Migrating to Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com/customers/smarthr)
+[![Migrating to Google Cloud](https://img.shields.io/badge/Migrating%20to%20GOOGLE%20CLOUD-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white)](https://cloud.google.com/customers/smarthr)
 
 ## Contact
 
