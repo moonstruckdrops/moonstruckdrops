@@ -10,6 +10,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## Languages
 
@@ -132,6 +133,22 @@
 
 ![Datadog](https://img.shields.io/badge/DATADOG-632CA6.svg?style=for-the-badge&logo=Datadog&logoColor=white)
 ![New Relic](https://img.shields.io/badge/NEWRELIC-008C99.svg?style=for-the-badge&logo=New%20Relic&logoColor=white)
+
+![Jira](https://img.shields.io/badge/JIRA-0052CC.svg?style=for-the-badge&logo=JIRA&logoColor=white)
+![Redmine](https://img.shields.io/badge/redmine-B32024.svg?style=for-the-badge&logo=redmine&logoColor=white)
+![Subversion](https://img.shields.io/badge/subversion-809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![BitBucket](https://img.shields.io/badge/bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-343434.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![Bitrise](https://img.shields.io/badge/bitrise-683D87.svg?style=for-the-badge&logo=bitrise&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+
 
 ## Recently
 
