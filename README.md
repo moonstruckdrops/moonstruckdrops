@@ -51,9 +51,13 @@
 ![Sass](https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
-![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/nextjs-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![nestjs](https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
 ## Backend
@@ -80,7 +84,7 @@
 
 ![Express](https://img.shields.io/badge/EXPRESSJS-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 
-
+![gRPC](https://img.shields.io/badge/grpc-000000.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
 ## Databases
 
@@ -126,7 +130,6 @@
 
 ## Other
 
-
 ![Apache](https://img.shields.io/badge/APACHE-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white)
 
@@ -151,7 +154,9 @@
 ![Bitrise](https://img.shields.io/badge/bitrise-683D87.svg?style=for-the-badge&logo=bitrise&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-
+![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/googlegemini-8E75B2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/claude-D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 ## Recently
 
